@@ -1,0 +1,9 @@
+short:
+http://www.w3big.com/python/python-2x-3x.html
+examples:
+https://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html
+
+Format:
+https://pyformat.info/
+
+https://docs.python.org/3/howto/pyporting.html
