@@ -14,5 +14,5 @@ numpyArray2 = np.sin(array)
 
 
 plt.figure()
-plt.plot(numpyArray, numpyArray2, ".",  markersize=20)
+plt.plot(numpyArray, numpyArray2, "*",  markersize=20)
 plt.show()

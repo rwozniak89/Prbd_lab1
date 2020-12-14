@@ -64,8 +64,10 @@ def reduce(matIn, n_size):
 
 
 # Test
+# import numpy as np
+#
 # m = [[float(i*j) for i in range(5)] for j in range(5)]
 #
-# print np.array(m)
+# print (np.array(m))
 #
-# print np.array(reduce(m, (3, 3)))
+# print (np.array(reduce(m, (3, 3))))

@@ -11,9 +11,12 @@ x1 = [0, 0]
 x2 = [-l, 0]
 u1 = [0, 50]
 u2 = [-30, 30]
+
 endTime=10
 nSteps=500
 nFrames=100
+
+
 
 def equation(Y, t):
     '''
@@ -26,6 +29,8 @@ def equation(Y, t):
     u1 = Y[2:4]
     x2 = Y[4:6]
     u2 = Y[6:]
+
+
 
     dr = x2-x1
 
@@ -48,7 +53,7 @@ Y0 = np.array([x1,u1,x2,u2]).reshape(8)
 
 
 Y = odeint(equation, Y0, np.linspace(0, endTime, nSteps) )
-
+print(Y)
 fig = plt.figure()
 
 plt.plot(Y[:,0], Y[:,1])
