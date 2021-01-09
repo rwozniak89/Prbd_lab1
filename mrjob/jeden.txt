@@ -1,0 +1,8 @@
+Zakładamy, że mamy pliki, który wykorzystywaliśmy do wcześniejszego zadania. Chcemy wykorzystać gotowe narzędzia uniksowe do prostej analizy danych. Zacznijmy od prostego przykładu.
+Policzmy ile jest „słów”. Gdyby nie zależało nam na rozproszeniu obliczeń wykonalibyśmy po prostu:
+$ cat pg20417.txt 4300-0.txt 5000-8.txt | tr -s '[[:punct:][:space:]]' '\n' | sort | uniq -c
+Zauważmy, że streaming API działa niemal identycznie. Mapperem jest tutaj polecenie tr -s '[[:punct:][:space:]]' '\n' a reducerem uniq -c. Przejdźmy więc do uruchomienia tego w środowisku rozproszonym.
+Przeprowadzimy operację map-reduce z wykorzystaniem tych samym programów:
+$ /usr/local/hadoop/bin/hadoop jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.8.2.jar -input tutorial/books -output tutorial/books-streaming-out -mapper " tr -s '[[:punct:][:space:]]' '\n' " -reducer "/usr/bin/uniq -c"
+$ /usr/local/hadoop/bin/hadoop jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.8.2.jar -input tutorial/books -output tutorial/books-streaming-out -mapper " tr -s '[[:punct:][:space:]]' '\n' " -reducer "/usr/bin/uniq -c"
+Żeby sprawdzić wynik obliczeń wykonujemy komendę:

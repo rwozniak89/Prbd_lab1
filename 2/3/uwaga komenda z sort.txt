@@ -1,0 +1,5 @@
+Komenda do odpalenia poniej, koniecznie z sort !!!!
+
+
+cat test.txt | ./mapper3.py | sort | ./reducer3.py
+

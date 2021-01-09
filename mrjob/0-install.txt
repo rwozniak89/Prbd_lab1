@@ -1,0 +1,9 @@
+pip install mrjob
+
+https://github.com/Yelp/mrjob
+https://mrjob.readthedocs.io/en/latest/index.html
+
+-r local
+--mapper
+--num-cores 5
+--num-cores 5 -v

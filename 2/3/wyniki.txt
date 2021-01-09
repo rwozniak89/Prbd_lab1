@@ -1,0 +1,526 @@
+
+(ach *) 1
+(ach któryż) 1
+
+(bez *) 1
+(bez wesoły) 1
+
+(biją *) 1
+(biją dzwony) 1
+
+(bo *) 1
+(bo oni) 1
+
+(bogiem *) 1
+(bogiem o) 1
+
+(burz *) 1
+(burz widzę) 1
+
+(by *) 7
+(by chór) 0.286
+(by dreszczem) 0.143
+(by hart) 0.143
+(by hart) 0.143
+(by jęk) 0.143
+(by siłę) 0.143
+
+(był *) 3
+(był pełen) 0.333
+(był w) 0.333
+(był zawsze) 0.333
+
+(całunem *) 1
+(całunem czy) 1
+
+(chcą *) 2
+(chcą by) 0.5
+(chcą ode) 0.5
+
+(choć *) 2
+(choć idą) 0.5
+(choć jesień) 0.5
+
+(chór *) 2
+(chór już) 0.5
+(chór mi) 0.5
+
+(chóru *) 1
+(chóru znać) 1
+
+(chórze *) 1
+(chórze żyli) 1
+
+(chwilę *) 1
+(chwilę by) 1
+
+(chyba *) 1
+(chyba gadał) 1
+
+(ciało *) 1
+(ciało tylko) 1
+
+(ciska *) 1
+(ciska groty) 1
+
+(co *) 9
+(co ciska) 0.111
+(co leci) 0.111
+(co legł) 0.111
+(co legnie) 0.111
+(co mija) 0.111
+(co niezatrwożon) 0.111
+(co skrzydeł) 0.111
+(co w) 0.111
+(co zmarł) 0.111
+
+(cóż *) 1
+(cóż to) 1
+
+(czasy *) 1
+(czasy burz) 1
+
+(czuję *) 1
+(czuję bez) 1
+
+(czy *) 8
+(czy ten) 1
+
+(dawno *) 1
+(dawno pogrzebiony) 1
+
+(dłoni *) 1
+(dłoni krzyż) 1
+
+(do *) 1
+(do łez) 1
+
+(dość *) 1
+(dość już) 1
+
+(dreszczem *) 1
+(dreszczem wstrząsnął) 1
+
+(drogę *) 1
+(drogę tnie) 1
+
+(duch *) 2
+(duch jak) 0.5
+(duch niesie) 0.5
+
+(dzisiaj *) 1
+(dzisiaj muszę) 1
+
+(dźwięku *) 1
+(dźwięku słów) 1
+
+(dzwony *) 1
+(dzwony wysoko) 1
+
+(gadał *) 1
+(gadał by) 1
+
+(gapili *) 1
+(gapili stanisław) 1
+
+(groty *) 1
+(groty o) 1
+
+(gwiazd *) 1
+(gwiazd krzesane) 1
+
+(gwiezdny *) 1
+(gwiezdny chór) 1
+
+(hart *) 2
+(hart był) 1
+
+(i *) 5
+(i całunem) 0.2
+(i drogę) 0.2
+(i mogiły) 0.2
+(i śmieję) 0.2
+(i żywych) 0.2
+
+(ich *) 1
+(ich wzruszał) 1
+
+(idą *) 1
+(idą czasy) 1
+
+(idę *) 1
+(idę w) 1
+
+(jak *) 1
+(jak ognia) 1
+
+(jary *) 1
+(jary choć) 1
+
+(jęk *) 1
+(jęk był) 1
+
+(jesień *) 1
+(jesień już) 1
+
+(jestem *) 5
+(jestem jary) 0.2
+(jestem młody) 0.2
+(jestem świeży) 0.2
+(jestem wesoły) 0.2
+(jestem żywy) 0.2
+
+(już *) 6
+(już chyba) 0.333
+(już idę) 0.167
+(już na) 0.167
+(już słyszę) 0.167
+(już słyszę) 0.167
+
+(kirami *) 1
+(kirami i) 1
+
+(krąg *) 1
+(krąg swobody) 1
+
+(krzemień *) 1
+(krzemień gwiazd) 1
+
+(krzesane *) 1
+(krzesane czy) 1
+
+(krzyż *) 1
+(krzyż czy) 1
+
+(któryż *) 1
+(któryż jestem) 1
+
+(kwitnący *) 1
+(kwitnący czuję) 1
+
+(kwitnących *) 1
+(kwitnących ogród) 1
+
+(leci *) 1
+(leci wzwyż) 1
+
+(lecz *) 2
+(lecz duch) 0.5
+(lecz nie) 0.5
+
+(legł *) 1
+(legł przykryty) 1
+
+(legnie *) 1
+(legnie zmożon) 1
+
+(łez *) 1
+(łez choć) 1
+
+(leży *) 1
+(leży lecz) 1
+
+(loty *) 1
+(loty przez) 1
+
+(łzą *) 2
+(łzą na) 0.5
+(łzą podniosłą) 0.5
+
+(ma *) 1
+(ma stanąć) 1
+
+(marach *) 1
+(marach trup) 1
+
+(mi *) 1
+(mi odpowiadał) 1
+
+(miał *) 1
+(miał związane) 1
+
+(mija *) 1
+(mija szczyty) 1
+
+(minie *) 1
+(minie chcą) 1
+
+(młody *) 1
+(młody już) 1
+
+(mogiły *) 1
+(mogiły lecz) 1
+
+(muszę *) 1
+(muszę rzec) 1
+
+(mym *) 1
+(mym chórze) 1
+
+(na *) 4
+(na chwilę) 0.25
+(na marach) 0.25
+(na poły) 0.25
+(na sąd) 0.25
+
+(nie *) 1
+(nie spostrzegli) 1
+
+(niebios *) 1
+(niebios strop) 1
+
+(niech *) 1
+(niech wiersze) 1
+
+(niesie *) 1
+(niesie pełny) 1
+
+(niezatrwożon *) 1
+(niezatrwożon na) 1
+
+(o *) 2
+(o chcą) 0.5
+(o krzemień) 0.5
+
+(ode *) 1
+(ode minie) 1
+
+(odpowiadał *) 1
+(odpowiadał więc) 1
+
+(ognia *) 1
+(ognia słup) 1
+
+(ogród *) 1
+(ogród róż) 1
+
+(oni *) 1
+(oni się) 1
+
+(otuchą *) 1
+(otuchą wiary) 1
+
+(pełen *) 1
+(pełen siły) 1
+
+(pełny *) 1
+(pełny snop) 1
+
+(piec *) 1
+(piec bo) 1
+
+(piór *) 1
+(piór już) 1
+
+(piorunem *) 1
+(piorunem czy) 1
+
+(podniosłą *) 1
+(podniosłą łzą) 1
+
+(pogrzebiony *) 1
+(pogrzebiony duch) 1
+
+(poły *) 1
+(poły kwitnący) 1
+
+(progiem *) 1
+(progiem czy) 1
+
+(przed *) 1
+(przed świątyń) 1
+
+(przez *) 1
+(przez żywot) 1
+
+(przykryty *) 1
+(przykryty kirami) 1
+
+(róż *) 1
+(róż wesoły) 1
+
+(rzec *) 1
+(rzec tym) 1
+
+(rzucą *) 1
+(rzucą w) 1
+
+(sąd *) 1
+(sąd ma) 1
+
+(ściskając *) 1
+(ściskając w) 1
+
+(się *) 2
+(się do) 0.5
+(się gapili) 0.5
+
+(sierpień *) 1
+(sierpień 1905) 1
+
+(sile *) 1
+(sile by) 1
+
+(siłę *) 1
+(siłę chóru) 1
+
+(siły *) 1
+(siły by) 1
+
+(skrzydeł *) 1
+(skrzydeł loty) 1
+
+(słów *) 1
+(słów by) 1
+
+(słup *) 1
+(słup wesoły) 1
+
+(słyszę *) 2
+(słyszę biją) 0.5
+(słyszę gwiezdny) 0.5
+
+(śmieję *) 1
+(śmieję się) 1
+
+(snadź *) 1
+(snadź żem) 1
+
+(snop *) 1
+(snop ach) 1
+
+(spostrzegli *) 1
+(spostrzegli snadź) 1
+
+(stanąć *) 1
+(stanąć z) 1
+
+(stanisław *) 1
+(stanisław wyspiański) 1
+
+(strop *) 1
+(strop trup) 1
+
+(świątyń *) 1
+(świątyń własnych) 1
+
+(świeży *) 1
+(świeży cóż) 1
+
+(swobody *) 1
+(swobody już) 1
+
+(szczęśliwy *) 1
+(szczęśliwy ściskając) 1
+
+(szczyty *) 1
+(szczyty i) 1
+
+(ten *) 8
+(ten co) 1
+
+(tnie *) 1
+(tnie piorunem) 1
+
+(to *) 2
+(to ciało) 0.5
+(to na) 0.5
+
+(trup *) 2
+(trup dawno) 0.5
+(trup to) 0.5
+
+(tylko *) 1
+(tylko leży) 1
+
+(tym *) 1
+(tym co) 1
+
+(w *) 7
+(w dłoni) 0.143
+(w dźwięku) 0.143
+(w krąg) 0.143
+(w mym) 0.143
+(w niebios) 0.143
+(w piec) 0.143
+(w sile) 0.143
+
+(wciąż *) 1
+(wciąż ich) 1
+
+(wesoły *) 5
+(wesoły i) 0.8
+(wesoły jestem) 0.2
+
+(wiary *) 1
+(wiary kwitnących) 1
+
+(widzę *) 1
+(widzę z) 1
+
+(więc *) 1
+(więc dzisiaj) 1
+
+(wiersze *) 1
+(wiersze rzucą) 1
+
+(własnych *) 1
+(własnych progiem) 1
+
+(wstrząsnął *) 1
+(wstrząsnął znów) 1
+
+(wysoko *) 1
+(wysoko w) 1
+
+(wyspiański *) 1
+(wyspiański sierpień) 1
+
+(wzruszał *) 1
+(wzruszał łzą) 1
+
+(wzwyż *) 1
+(wzwyż czy) 1
+
+(z *) 2
+(z bogiem) 0.5
+(z otuchą) 0.5
+
+(zawsze *) 1
+(zawsze w) 1
+
+(zbytnich *) 1
+(zbytnich piór) 1
+
+(zbywam *) 1
+(zbywam zbytnich) 1
+
+(żem *) 1
+(żem dość) 1
+
+(zmarł *) 1
+(zmarł szczęśliwy) 1
+
+(zmożon *) 1
+(zmożon przed) 1
+
+(znać *) 1
+(znać by) 1
+
+(znów *) 1
+(znów i) 1
+
+(związane *) 1
+(związane czy) 1
+
+(żyli *) 1
+(żyli niech) 1
+
+(żywot *) 1
+(żywot miał) 1
+
+(żywy *) 1
+(żywy czy) 1
+
+(żywych *) 1
+(żywy czy) 1
