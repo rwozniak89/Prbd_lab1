@@ -5,6 +5,9 @@ import re
 from mrjob.step import MRStep
 import numpy as np
 import pandas as pd
+
+from mrjob.protocol import RawProtocol
+
 WORD_RE = re.compile(r"\w+")
 ## plus 6 zadań z dodaną wielostopniowością gdzie trzeba i z wykluczeniami: 1. największa liczba; 2 średnia arytmetyczna; 3 średnia geometryczna; 4  mediana; 5 liczba cyfr;
 #
@@ -13,7 +16,7 @@ WORD_RE = re.compile(r"\w+")
 # odpalanie  C:\Users\Radek\AppData\Local\Programs\Python\Python39\python.exe mr_3.py inputTest2.txt
 class MRWordCount(MRJob):
     FILES = ['stop_words.txt']
-
+    OUTPUT_PROTOCOL = RawProtocol
     def configure_args(self):
         super(MRWordCount, self).configure_args()
 
